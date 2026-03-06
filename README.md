@@ -1,7 +1,7 @@
 # MCP Current Event Presentation
 
 Team Members:
-- Name (Student #)
+- Carson Laidlaw (125429258)
 - Name (Student #)
 - Name (Student #)
 
