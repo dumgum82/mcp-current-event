@@ -13,6 +13,12 @@ https://www.anthropic.com/news/donating-the-model-context-protocol-and-establish
 4) Linux Foundation announcement (Agentic AI Foundation)
 https://www.linuxfoundation.org/press/linux-foundation-announces-the-formation-of-the-agentic-ai-foundation
 
+5) Context7 MCP repo
+https://github.com/upstash/context7#available-tools
+
+6) Context7 Website
+https://context7.com/
+
 Key Takeaways:
 - MCP standardizes how AI apps connect to tools and data sources.
 - MCP uses a client/host that talks to MCP servers exposing tools/resources.
