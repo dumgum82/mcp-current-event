@@ -24,3 +24,4 @@ Key Takeaways:
 - MCP uses a client/host that talks to MCP servers exposing tools/resources.
 - The move under the Linux Foundation supports neutral, open governance.
 - For developers, MCP can reduce one-off integration code and make connectors reusable.
+- Context7 is a great MCP tool for getting accurate and official developer documentation for things such as Next.js, React, Supabase...
