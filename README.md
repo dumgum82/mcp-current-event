@@ -12,15 +12,7 @@ YouTube Video:
 - https://www.youtube.com/watch?v=0POkW_OF7Y0
 
 Audience Question:
-If MCP makes it easier for AI apps to access company tools and data, what’s one rule that should be required before letting an MCP server be used in a real workplace project?
-
-
-Got some thought on structure , assuming each teammate have 1 min.
-
-1. what mcp is??
-2. why MCP is important??
-3. Real-World Experience
-
+Can you think of any impactful ways to use an MCP in your day to day life inside or outside of the workplace?
 
 
 
